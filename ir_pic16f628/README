@@ -1,0 +1,7 @@
+DIY remote control based on PIC
+http://jap.hu/electronic/codec.html
+
+How to compile a linked project in MPLAB
+
+Start the new project wizard, and when asked, add all assembly (*.asm),
+header (*.inc) files and the linker script (*.lkr) to the project.
